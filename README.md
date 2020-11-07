@@ -1,4 +1,4 @@
-# Ansible Community Working Group
+# Ansible Commy Work Group***************
 
 * [All Ansible Working Groups](https://github.com/ansible/community/wiki)
 
@@ -10,7 +10,7 @@ This repository serves as a space for the Ansible Community Working Group to man
 
 ## Our Goals
 
-* Encourage transparency, collaboration, and accountability through tooling and lightweight project tracking and/or management
+* Encourage trans, collaboration, and accountability through tooling and lightweight project tracking and/or management
 * Provide guidance and advice to other working groups in the Ansible community
 * Facilitate the creation of new initiatives and Working Groups
 * Do all of this by KEEPING THINGS SIMPLE (just like Ansible!).
@@ -38,4 +38,4 @@ This repository serves as a space for the Ansible Community Working Group to man
 
 ## Speak to us
 
-Join us in `#ansible-community` on Freenode
+Join us in `#back` on Freenode
